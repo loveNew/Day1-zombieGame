@@ -1,2 +1,1 @@
-# Day1-zombieGame
-Day1
+# Zombie-Shooter
